@@ -13,3 +13,4 @@ JavaScript solutions of problems from [LeetCode](https://leetcode.com/).
 | 807  | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)                           | [JavaScipt](./problems/807.js)  | Medium     |
 | 760  | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings)                                                   | [JavaScipt](./problems/760.js)  | Easy       |
 | 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter) | [JavaScipt](./problems/1180.js) | Easy       |
+| 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                                                            | [JavaScipt](./problems/1134.js) | Easy       |

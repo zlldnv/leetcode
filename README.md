@@ -9,7 +9,7 @@ JavaScript solutions of problems from [LeetCode](https://leetcode.com/).
 | 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)                                      | [JavaScript](./problems/1119.js) | Easy       |
 | 1165 | [Single-Row Keyboard ](https://leetcode.com/problems/single-row-keyboard/)                                                     | [JavaScript](./problems/1165.js) | Easy       |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                              | [JavaScript](./problems/1108.js) | Easy       |
-| 771  | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                              | [JavaScript](./problems/771.js)  | Easy       |
+| 771  | [Jewels and Stones ](https://leetcode.com/problems/jewels-and-stones/)                                                         | [JavaScript](./problems/771.js)  | Easy       |
 | 807  | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)                           | [JavaScript](./problems/807.js)  | Medium     |
 | 760  | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings)                                                   | [JavaScript](./problems/760.js)  | Easy       |
 | 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter) | [JavaScript](./problems/1180.js) | Easy       |
